@@ -20,5 +20,5 @@ $ git pull remotename branchname
 
 For example
 ```
-$ git pull upstream master
+$ git pull https://github.com/mschoettner/study_notebook master
 ```
